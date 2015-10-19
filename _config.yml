@@ -9,7 +9,7 @@ info: "Check back in the coming week for more information"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
+  primary-dark: '#000066'
   links: '#219ab3'
 
 # Footer settings
@@ -17,14 +17,14 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
+#  - title: twitter
+#    url: 
+#  - title: facebook
+#    url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/4056595/dafly45
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/maapps/
   - title: github
     url: https://github.com/milton-programming/
 
