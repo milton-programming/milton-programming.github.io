@@ -2,11 +2,26 @@
     <div class="row">
         <form accept-charset="UTF-8" action="https://formkeep.com/f/c4fed195e201" method="POST">
             <input class="fa" type="hidden" name="utf8" value="✓">
-            <input class="fa" type="text" name="name" placeholder="Your Name">
-            <input class="fa" type="text" name="school" placeholder="Your School">
-            <input class="fa" type="email" name="email" placeholder="Your Email">
-            <input class="fa" type="url" name="url" placeholder="Your Website">
-            <button type="submit">Submit</button>
+            <div class="input-group margin-bottom-sm">
+                <span class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></span>
+                <input class="form-control" type="text" placeholder="Email address">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+                <input class="form-control" type="text" name="name" placeholder="Your Name">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-graduation-cap fa-fw"></i></span>
+                <input class="form-control" type="text" name="school" placeholder="Your School">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-github-square fa-fw"></i></span>
+                <input class="form-control" type="text" name="url" placeholder="Your Website">
+            </div>
+            <a class="btn btn-lg btn-success" href="#">
+                <i class="fa fa-flag fa-2x pull-left"></i>
+                <button type="submit">Submit</button>
+            </a>
         </form>
     </div>
 </section>
