@@ -59,6 +59,7 @@ a:focus {
 
 .light {
     font-weight: 400;
+    color: {{site.color.links}};
 }
 
 .navbar-custom {
