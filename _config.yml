@@ -9,8 +9,8 @@ info: "Check back in the coming week for more information"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000066'
-  links: '#219ab3'
+  primary-dark: '#004685'
+  links: '#F8991D'
 
 # Footer settings
 footer: Milton Academy
