@@ -6,6 +6,7 @@ description: "HackMilton is a new hackathon that will run November 15th. "
 contactDescription: "contact us at the following email if you have any questions: "
 introText: "On November 15th, Milton Academy will hold their first ever hackathon."
 info: "Check back in the coming week for more information"
+#Crawshaw
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -31,3 +32,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
